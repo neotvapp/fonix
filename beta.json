@@ -1,12 +1,12 @@
 {
   "data":{
     "file":{
-      "vername":"1.66",
-      "vercode":82,
-      "path":"https://github.com/morpheustv/morpheustv.github.io/releases/download/final/app-release.apk"
+      "vername":"1.0",
+      "vercode":1,
+      "path":""
     },
     "media":{
-      "news":"- Add voice search for movies and tvshows."
+      "news":""
     }
   }
 }
