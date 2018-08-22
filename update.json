@@ -2,11 +2,11 @@
   "data":{
     "file":{
       "vername":"1.0",
-      "vercode":2,
-      "path":"https://github.com/neotvapp/fonix/releases/download/final/app-release.apk"
+      "vercode":1,
+      "path":"https://github.com/neotvapp/fonix/releases/download/installer/app-release.apk"
     },
     "media":{
-      "news":"First release of Fonix."
+      "news":"The installer for Fonix app."
     }
   }
 }
